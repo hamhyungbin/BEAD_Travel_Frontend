@@ -1,5 +1,5 @@
 // 백엔드 API 주소 (Render 배포 후 이 주소를 변경해야 합니다)
-const API_URL = 'http://127.0.0.1:5000'; // 로컬 테스트용 기본 주소
+const API_URL = 'https://bead-travel-backend.onrender.com'; // 기본 주소
 
 const form = document.getElementById('recommend-form');
 const resultDiv = document.getElementById('result');
